@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.4375a198.css",
-    "main.js": "/static/js/main.b7678d10.js",
+    "main.css": "/static/css/main.93d4aec0.css",
+    "main.js": "/static/js/main.d053abdf.js",
     "static/css/141.27c49f1b.chunk.css": "/static/css/141.27c49f1b.chunk.css",
-    "static/js/141.092d57f2.chunk.js": "/static/js/141.092d57f2.chunk.js",
+    "static/js/141.602fe31a.chunk.js": "/static/js/141.602fe31a.chunk.js",
     "static/css/769.70f3b610.chunk.css": "/static/css/769.70f3b610.chunk.css",
-    "static/js/769.c18b0f02.chunk.js": "/static/js/769.c18b0f02.chunk.js",
+    "static/js/769.cb6c9872.chunk.js": "/static/js/769.cb6c9872.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/eom.jpeg": "/static/media/eom.5b4e5f193dcdf457dc57.jpeg",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
@@ -21,15 +21,15 @@
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.4375a198.css.map": "/static/css/main.4375a198.css.map",
-    "main.b7678d10.js.map": "/static/js/main.b7678d10.js.map",
+    "main.93d4aec0.css.map": "/static/css/main.93d4aec0.css.map",
+    "main.d053abdf.js.map": "/static/js/main.d053abdf.js.map",
     "141.27c49f1b.chunk.css.map": "/static/css/141.27c49f1b.chunk.css.map",
-    "141.092d57f2.chunk.js.map": "/static/js/141.092d57f2.chunk.js.map",
+    "141.602fe31a.chunk.js.map": "/static/js/141.602fe31a.chunk.js.map",
     "769.70f3b610.chunk.css.map": "/static/css/769.70f3b610.chunk.css.map",
-    "769.c18b0f02.chunk.js.map": "/static/js/769.c18b0f02.chunk.js.map"
+    "769.cb6c9872.chunk.js.map": "/static/js/769.cb6c9872.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4375a198.css",
-    "static/js/main.b7678d10.js"
+    "static/css/main.93d4aec0.css",
+    "static/js/main.d053abdf.js"
   ]
 }
